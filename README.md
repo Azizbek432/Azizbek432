@@ -1,4 +1,4 @@
-# 👋 Assalomu alaykum! | Hi, I'm Azizbek!     
+# 👋 Assalomu alaykum! | Hi There!     
 
 Men **Azizbek Abdullayev**man — web dasturlashga qiziqadigan, yangi narsalarni o‘rganishni yaxshi ko‘radigan yosh dasturchiman.  
 I'm **Azizbek Abdullayev** — a young developer who loves learning and building creative web projects.  
