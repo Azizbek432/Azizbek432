@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Fullstack+Developer+in+Progress...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Fullstack+Developer+in+Progress......)
 # Assalomu alaykum! | Hi There!     
 
 Men **Azizbek Abdullayev**man — web dasturlashga qiziqadigan, yangi narsalarni o‘rganishni yaxshi ko‘radigan yosh dasturchiman.  
