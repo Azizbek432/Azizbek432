@@ -1,4 +1,5 @@
-# 👋 Assalomu alaykum! | Hi There!     
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F700&center=true&vCenter=true&width=600&lines=Hey!+I'm+Azizbek+Dasturchi!+👋;)
+# Assalomu alaykum! | Hi There!     
 
 Men **Azizbek Abdullayev**man — web dasturlashga qiziqadigan, yangi narsalarni o‘rganishni yaxshi ko‘radigan yosh dasturchiman.  
 I'm **Azizbek Abdullayev** — a young developer who loves learning and building creative web projects.  
