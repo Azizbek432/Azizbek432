@@ -37,7 +37,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 ## 📫 Aloqa | Contact
 🔗 GitHub: [Azizbek432](https://github.com/Azizbek432)
 - 💬 Telegram: https://t.me/Azizbek_Abdullayev09
-- 📸 Instagram: https://instagram.com/___azizbek2012
+- 📸 Instagram: https://instagram.com/____azizbek2012
 - ✉️ Email: azizbekabdullayev3500@gmail.com
 
 ---
