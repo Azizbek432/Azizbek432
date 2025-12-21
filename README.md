@@ -43,8 +43,8 @@ I want to study programming in depth and create useful and beautiful websites, a
 My first portfolio:
 🔗 https://azizbek-my-portfolio.vercel.app
 |
-My second portolio(it's modern..):
-🔗 https//azizbek-my-modern-portfolio.vercel.app
+[My second portolio(it's modern..):]
+🔗 (https//azizbek-my-modern-portfolio.vercel.app)
 
 ---
 
