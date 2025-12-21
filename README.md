@@ -27,7 +27,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 ---
 
-## 🚀 Current Status
+## 🚀Hozirgi holatim | Current Status 
 - 👨‍💻 Beginner fullstack developer (learning step by step)
 - 🌱 Currently learning JavaScript and backend basics
 - 🛠️ Building small projects to improve my skills
@@ -37,10 +37,11 @@ I want to study programming in depth and create useful and beautiful websites, a
 ---
 
 
-## 🌐 My Portfolio
+## 🌐 Mening portfoliom | My Portfolio
 > A simple portfolio where I showcase my learning projects and progress as a beginner developer.
 
-🔗 https:azizbek-my-portfolio.vercel.app
+🔗 https//azizbek-my-portfolio.vercel.app
+
 ---
 
 ## 🧩 Men haqimda qisqacha | About Me
