@@ -39,8 +39,10 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 ## 🌐 Mening portfoliom | My Portfolio
 > A simple portfolio where I showcase my learning projects and progress as a beginner developer.
-
+/ my first portfolio:
 🔗 https://azizbek-my-portfolio.vercel.app
+/ my second portolio(it's modern..):
+🔗 https//azizbek-my-modern-portfolio.vercel.app
 
 ---
 
