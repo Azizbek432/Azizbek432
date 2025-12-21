@@ -27,6 +27,22 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 ---
 
+## 🚀 Current Status
+- 👨‍💻 Beginner fullstack developer (learning step by step)
+- 🌱 Currently learning JavaScript and backend basics
+- 🛠️ Building small projects to improve my skills
+- 🌍 Portfolio website deployed on Vercel
+- 💡 Focused on learning, practice, and consistency
+
+---
+
+
+## 🌐 My Portfolio
+> A simple portfolio where I showcase my learning projects and progress as a beginner developer.
+
+🔗 https:azizbek-my-portfolio.vercel.app
+---
+
 ## 🧩 Men haqimda qisqacha | About Me
 - 💡 Har kuni yangi g‘oyalar izlayman  
 - 🧠 “Katta natijalar kichik qadamlar bilan boshlanadi” tamoyiliga ishonaman  
