@@ -7,17 +7,17 @@ I'm **Azizbek Abdullayev** — a young developer who loves learning and building
 ---
 
 ## 💻 Dasturlash yo‘nalishim | My Development Path
-- 🌐 Frontend: HTML, CSS (asosiy darajada)
-- 🐍 Backend: Python (boshlang‘ich)
-- ⚙️ Git & GitHub — kodni boshqarish va loyihalarni joylashtirishni o‘rganayapman  
-- 🎯 Maqsadim: har kuni yangi narsa o‘rganish va o‘z loyihalarimni yaratish  
+- 🌐 Frontend: HTML, CSS (asosiy darajada) | Frontend: HTML, CSS (basic level)
+- 🐍 Backend: Python (boshlang‘ich) | Backend: Python (beginner)
+- ⚙️ Git & GitHub — kodni boshqarish va loyihalarni joylashtirishni o‘rganayapman | Git & GitHub — learning code management and deploying projects
+- 🎯 Maqsadim: har kuni yangi narsa o‘rganish va o‘z loyihalarimni yaratish |My goal: to learn something new every day and create my own projects 
 
 ---
 
-## 🌱 Hozir nimalarni o‘rganayapman | Currently Learning
-- Responsive web design (moslashuvchan saytlar yaratish)
-- Basics of JavaScript | JavaScript asoslari
-- Freelancing and working on real projects | Freelancerlik va haqiqiy loyihalar bilan ishlash  
+## 🌱 Hozir nimalarni o‘rganayapman | What am I learning now?
+- Moslashuvchan saytlar yaratish | Ccreating responsive websites
+- JavaScript asoslari | Basics of JavaScript
+- Freelancerlik va haqiqiy loyihalar bilan ishlash | Freelancing and working on real projects  
 
 ---
 
@@ -27,32 +27,32 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 ---
 
-## 🚀Hozirgi holatim | Current Status 
-- 👨‍💻 Beginner fullstack developer (learning step by step)
-- 🌱 Currently learning JavaScript and backend basics
-- 🛠️ Building small projects to improve my skills
-- 🌍 Portfolio website deployed on Vercel
-- 💡 Focused on learning, practice, and consistency
+## 🚀Hozirgi holatim | My current situation 
+- 👨‍💻 Boshlang'ich fullstack dasturchisi (bosqichma-bosqich o'rganish) | Beginner fullstack developer (learning step by step)
+- 🌱 Men hozirda JavaScript va backend asoslarini o'rganyapman | I am currently learning JavaScript and backend basics.
+- 🛠️ Men mahoratimni oshirish uchun kichik loyihalar quryapman | I am building small projects to improve my skills.
+- 🌍 Portfolio veb-saytim Vercelga deploy qilingan | My portfolio website is deployed to Vercel
+- 💡 Men o'rganish, amaliyot va izchillikka e'tibor qaratyapman | I am focusing on learning, practice, and consistency.
 
 ---
 
 
 ## 🌐 Mening portfoliom | My Portfolio
-> A simple portfolio where I showcase my learning projects and progress as a beginner developer.
+> Men boshlang'ich dasturchi sifatida o'rganish loyihalarim va yutuqlarimni namoyish etadigan oddiy portfolio | A simple portfolio where I showcase my learning projects and progress as a beginner developer.
 
-## My first portfolio:
+## My first portfolio: | Mening birinchi portfoliom:
 🔗 https://azizbek-my-portfolio.vercel.app
 
 
-## My second portolio(it's modern..):
+## My second portolio(it's modern..): | Mening ikkinchi portfoliom(u zamonaviy):
 🔗 https://azizbek-modern-portfolio.vercel.app/
 
 ---
 
 ## 🧩 Men haqimda qisqacha | About Me
-- 💡 Har kuni yangi g‘oyalar izlayman  
-- 🧠 “Katta natijalar kichik qadamlar bilan boshlanadi” tamoyiliga ishonaman  
-- 🕹️ Bo‘sh vaqtda shaxmat o‘ynayman va Rubob chalishni yoqtiraman  
+- 💡 Har kuni yangi g‘oyalar izlayman | I look for new ideas every day.
+- 🧠 “Katta natijalar kichik qadamlar bilan boshlanadi” tamoyiliga ishonaman | I believe in the principle "Big results start with small steps"
+- 🕹️ Bo‘sh vaqtda shaxmat o‘ynayman va Rubob chalishni yoqtiraman | In my free time, I play chess and the rubab.
 
 ---
 
