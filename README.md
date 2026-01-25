@@ -15,7 +15,7 @@ I'm **Azizbek Abdullayev** — a young developer who loves learning and building
 ---
 
 ## 🌱 Hozir nimalarni o‘rganayapman | What am I learning now?
-- Moslashuvchan saytlar yaratish | Ccreating responsive websites
+- Moslashuvchan saytlar yaratish | Creating responsive websites
 - JavaScript asoslari | Basics of JavaScript
 - Freelancerlik va haqiqiy loyihalar bilan ishlash | Freelancing and working on real projects  
 
@@ -38,7 +38,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 
 ## 🌐 Mening portfoliom | My Portfolio
-> Men boshlang'ich dasturchi sifatida o'rganish loyihalarim va yutuqlarimni namoyish etadigan oddiy portfolio | A simple portfolio where I showcase my learning projects and progress as a beginner developer.
+> Meni boshlang'ich dasturchi sifatida loyihalarim va yutuqlarimni namoyish etadigan oddiy portfoliolarim: | A simple portfolio where I showcase my projects and progress as a beginner developer:
 
 ## My first portfolio: | Mening birinchi portfoliom:
 🔗 https://azizbek-my-portfolio.vercel.app
