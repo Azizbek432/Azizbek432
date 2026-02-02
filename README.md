@@ -68,7 +68,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats
-[![Azizbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azizbek432&show_icons=true&theme=radial)](https://github.com/anurag-hazra/github-readme-stats)
+![Azizbek's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Azizbek432&show_icons=true&theme=radical)
 
 ---
 
