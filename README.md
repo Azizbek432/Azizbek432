@@ -74,7 +74,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 ---
 
 ## 📊Top languages
-[![Azizbek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek432&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
+[![Azizbek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek432&layout=compact&theme=vision-glow&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
