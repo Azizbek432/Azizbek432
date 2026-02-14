@@ -73,5 +73,8 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 ---
 
+## 📊Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek432&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
+
 > "Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — o‘sish uchun imkon."
 > "A programmer is someone who has mastered the art of solving problems through code. Every line is a new opportunity, every mistake is an opportunity for growth."
