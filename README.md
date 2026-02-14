@@ -66,6 +66,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 📊 GitHub Stats
 ![Azizbek's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Azizbek432&show_icons=true&theme=radical)
