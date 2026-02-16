@@ -69,6 +69,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 📊 GitHub Stats
+
 ![Azizbek's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Azizbek432&show_icons=true&theme=radical)
 
 ---
