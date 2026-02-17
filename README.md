@@ -47,6 +47,9 @@ I want to study programming in depth and create useful and beautiful websites, a
 ## My second portolio(it's modern..): | Mening ikkinchi portfoliom(u zamonaviy):
 🔗 https://my-modern-portfolio-azizbek.vercel.app/
 
+## My main portfolio | Mening asosiy portfoliom:
+🔗 https://my-responsive-portfolio-azizbek.vercel.app/
+
 ---
 
 ## 🧩 Men haqimda qisqacha | About Me
