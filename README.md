@@ -78,7 +78,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 ![Azizbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek432&theme=react-dark)
 
-![Metrics](https://metrics.lecoq.io/Azizbek432?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FTaskent)
+![Visitors](https://komarev.com/ghpvc/?username=Azizbek432&color=blue&style=flat-square)
 ---
 
 > "Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — o‘sish uchun imkon."
