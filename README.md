@@ -71,14 +71,14 @@ I want to study programming in depth and create useful and beautiful websites, a
 ## 📊 GitHub Stats
 
 ![Azizbek's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Azizbek432&show_icons=true&theme=radical)
-https://camo.githubusercontent.com/5564016ed6fdc85…d653d6461726b26686964655f626f726465723d66616c7365
+
 ---
 
 ## 📊Activity Graph
 
 ![Azizbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek432&theme=react-dark)
 
-![Azizbek's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Azizbek432&show_icons=true&theme=dark)
+![Azizbek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek432&layout=compact&theme=dark&hide_border=false)
 ---
 
 > "Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — o‘sish uchun imkon."
