@@ -78,7 +78,7 @@ https://camo.githubusercontent.com/5564016ed6fdc85…d653d6461726b26686964655f62
 
 ![Azizbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek432&theme=react-dark)
 
-![Azizbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azizbek432&show_icons=true&theme=dark&hide_border=false)
+![Azizbek's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Azizbek432&show_icons=true&theme=dark)
 ---
 
 > "Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — o‘sish uchun imkon."
