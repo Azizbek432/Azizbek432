@@ -71,17 +71,22 @@ I want to study programming in depth and create useful and beautiful websites, a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## 📊 GitHub Stats
+## 📊 Github Statistikalar | GitHub Stats
 
 ![Azizbek's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Azizbek432&show_icons=true&theme=radical)
 
 ---
 
-## 📊Activity Graph
+## 📊 Faoliyat Grafigi | Activity Graph
 
 ![Azizbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek432&theme=react-dark)
 
 ---
 
+##  Mening telegram kanalim 📊 | My telegram channel 📊
+
+🔗 https://t.me/azizbek_it_dev
+
+---
 > "Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — o‘sish uchun imkon."
 > "A programmer is someone who has mastered the art of solving problems through code. Every line is a new opportunity, every mistake is an opportunity for growth."
