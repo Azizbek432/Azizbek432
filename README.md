@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Fullstack+Developer+in+Progress......)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Fullstack+Developer+in+Progress..;Blogger;Learner)
 # Assalomu alaykum! | Hi There!     
 
 Men **Azizbek Abdullayev**man — web dasturlashga qiziqadigan, yangi narsalarni o‘rganishni yaxshi ko‘radigan yosh dasturchiman.  
@@ -74,6 +74,8 @@ I want to study programming in depth and create useful and beautiful websites, a
 ## 📊 Github Statistikalar | GitHub Stats
 
 ![Azizbek's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Azizbek432&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azizbek432&theme=dark)
 
 ---
 
