@@ -90,6 +90,8 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 ![Azizbek's Activity](https://github-readme-stats.vercel.app/api?username=Azizbek432&show_icons=true&theme=neon&hide_border=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek432&layout=compact&theme=neon)
+
 ---
 
 ##  Mening telegram kanalim 📊 | My telegram channel 📊
