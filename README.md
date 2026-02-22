@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Fullstack+Developer+in+Progress..;Blogger;Learner)
-# Assalomu alaykum! | Hi There!   ![Waving Hand](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F700&width=435&lines=Salom,+men+Azizbek!;Welcome+to+my+profile!;Xush+kelibsiz!)  
-
+# Assalomu alaykum! | Hi There!  
 Men **Azizbek Abdullayev**man — web dasturlashga qiziqadigan, yangi narsalarni o‘rganishni yaxshi ko‘radigan yosh dasturchiman.  
 I'm **Azizbek Abdullayev** — a young developer who loves learning and building creative web projects.  
 
@@ -80,6 +79,8 @@ I want to study programming in depth and create useful and beautiful websites, a
 ---
 
 ## 📊 Faoliyat Grafigi | Activity Graph
+
+![Azizbek's Activity](https://github-readme-stats.vercel.app/api?username=Azizbek432&show_icons=true&theme=neon&hide_border=true&count_private=true)
 
 ![Azizbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek432&theme=react-dark)
 
