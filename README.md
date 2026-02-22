@@ -90,5 +90,8 @@ I want to study programming in depth and create useful and beautiful websites, a
 🔗 https://t.me/azizbek_it_dev
 
 ---
+
+![Snake animation](https://github-readme-snake.vercel.app/api/snake?github=Azizbek432&color_dots=%23bfd6f6%2C%238dbdff%2C%2364a1ff%2C%234b91ff%2C%233d7dd9&color_snake=%2300F700)
+
 > "Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — o‘sish uchun imkon."
 > "A programmer is someone who has mastered the art of solving problems through code. Every line is a new opportunity, every mistake is an opportunity for growth."
