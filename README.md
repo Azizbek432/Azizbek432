@@ -92,5 +92,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 ---
 
+![Visitors](https://komarev.com/ghpvc/?username=Azizbek432&color=00F700&style=for-the-badge&label=Profile+Views)
+
 > "Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — o‘sish uchun imkon."
 > "A programmer is someone who has mastered the art of solving problems through code. Every line is a new opportunity, every mistake is an opportunity for growth."
