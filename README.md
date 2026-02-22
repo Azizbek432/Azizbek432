@@ -1,4 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Fullstack+Developer+in+Progress..;Blogger;Learner)
+![Visitors](https://komarev.com/ghpvc/?username=Azizbek432&color=00F700&style=for-the-badge&label=Profile+Views)
 # Assalomu alaykum! | Hi There!  
 Men **Azizbek Abdullayev**man — web dasturlashga qiziqadigan, yangi narsalarni o‘rganishni yaxshi ko‘radigan yosh dasturchiman.  
 I'm **Azizbek Abdullayev** — a young developer who loves learning and building creative web projects.  
@@ -91,8 +92,6 @@ I want to study programming in depth and create useful and beautiful websites, a
 🔗 https://t.me/azizbek_it_dev
 
 ---
-
-![Visitors](https://komarev.com/ghpvc/?username=Azizbek432&color=00F700&style=for-the-badge&label=Profile+Views)
 
 > "Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — o‘sish uchun imkon."
 > "A programmer is someone who has mastered the art of solving problems through code. Every line is a new opportunity, every mistake is an opportunity for growth."
