@@ -82,7 +82,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azizbek432&theme=dark)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Azizbek432&theme=radical&no-bg=true&v=99)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Azizbek432&theme=radical&no-bg=true&margin-w=15&margin-h=15)
 
 ---
 
@@ -90,7 +90,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 ![Azizbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek432&theme=react&area=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek432&layout=compact&theme=neon&v=99)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek432&layout=compact&theme=neon)
 
 ---
 
