@@ -82,7 +82,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azizbek432&theme=dark)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Azizbek432&theme=radical&no-bg=true&v=1)
+![Trophies](https://github-readme-stats.vercel.app/api/wakatime?username=Azizbek432&theme=neon)
 
 ---
 
