@@ -88,7 +88,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 ## 📊 Faoliyat Grafigi | Activity Graph
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Azizbek432&show_icons=true&theme=neon&v=99)
+![Azizbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek432&theme=github_dark&area=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek432&layout=compact&theme=neon&v=99)
 
