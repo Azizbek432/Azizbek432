@@ -78,13 +78,13 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azizbek432&theme=dark)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=Azizbek432&theme=radical&no-bg=true&column=4)
+
 ---
 
 ## 📊 Faoliyat Grafigi | Activity Graph
 
 ![Azizbek's Activity](https://github-readme-stats.vercel.app/api?username=Azizbek432&show_icons=true&theme=neon&hide_border=true&count_private=true)
-
-![Azizbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek432&theme=react-dark)
 
 ---
 
