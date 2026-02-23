@@ -1,10 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Fullstack+Developer+in+Progress..;Blogger;Learner)
 
 ![Visitors](https://komarev.com/ghpvc/?username=Azizbek432&color=00F700&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Azizbek432?label=Followers&style=for-the-badge&color=2ea44f)
-![Following](https://img.shields.io/github/following/Azizbek432?label=Following&style=for-the-badge&color=007acc)
 
-[![My Friends](https://github-readme-stats.vercel.app/api?username=Azizbek432&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Azizbek432)# Assalomu alaykum! | Hi There!  
+# Assalomu alaykum! | Hi There!  
 Men **Azizbek Abdullayev**man — web dasturlashga qiziqadigan, yangi narsalarni o‘rganishni yaxshi ko‘radigan yosh dasturchiman.  
 I'm **Azizbek Abdullayev** — a young developer who loves learning and building creative web projects.  
 
