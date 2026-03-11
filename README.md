@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Fullstack+Developer+in+Progress..;Blogger;Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Full-stack+Developer+in+Progress..;Blogger;Learner)
 
 ![Visitors](https://komarev.com/ghpvc/?username=Azizbek432&color=00F700&style=for-the-badge&label=Profile+Views)
 
