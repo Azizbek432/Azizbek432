@@ -65,6 +65,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 🔗 GitHub: [Azizbek432](https://github.com/Azizbek432)
 - 💬 Telegram: https://t.me/Azizbek_Abdullayev09
 - 📸 Instagram: https://www.instagram.com/_azizbek_future_programmer
+- 📸 Instagram secondary(personal): https://www.instagram.com/azizbek_personal_account
 
 ## 🛠️Texnologiyalar & Ko'nikmalar | Technologies & Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
