@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Full-stack+Developer+in+Progress..;Blogger;Learner)
 
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAzizbek432&count_bg=%2300F700&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Azizbek432&label=Profile%20Views&countColor=%23263238&labelStyle=upper)
 
 # Assalomu alaykum! | Hi There!  
 Men **Azizbek Abdullayev**man — web dasturlashga qiziqadigan, yangi narsalarni o‘rganishni yaxshi ko‘radigan yosh dasturchiman.  
@@ -94,7 +94,7 @@ I want to study programming in depth and create useful and beautiful websites, a
 
 # 🚀 Web-Solutions & Services | Xizmatlar
 
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAzizbek432&count_bg=%2300F700&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Azizbek432&label=Profile%20Views&countColor=%23263238&labelStyle=upper)
 
 Assalomu alaykum! Men sizga sifatli va zamonaviy veb-yechimlar yaratishda yordam beraman. 
 *Greetings! I help you create high-quality and modern web solutions.*
