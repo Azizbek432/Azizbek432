@@ -107,7 +107,7 @@ Assalomu alaykum! Men sizga sifatli va zamonaviy veb-yechimlar yaratishda yordam
 | :--- | :--- | :--- | :--- |
 | **🌍 Web-Site** | [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://web-core-solutions.vercel.app/) | Services & Portfolio | Xizmatlar va Portfolio |
 | **📢 Telegram** | [![Telegram](https://img.shields.io/badge/Telegram-Join-0088cc?style=flat-square&logo=telegram)](https://t.me/Azizbek_Abdullayev09) | Useful Info & News | Yangiliklar va ma'lumotlar |
-| **💼 Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square)](https://my-responsive-portfolio-azizbek.vercel.app) | My Completed Projects | Mening barcha loyihalarim |
+| **💼 Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square)](https://github.com/Azizbek432) | My Completed Projects | Mening barcha loyihalarim |
 
 ---
 
