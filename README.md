@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Full-stack+Developer+in+Progress..;Blogger;Learner)
 
-![Visitors](https://komarev.com/ghpvc/?username=Azizbek432&color=00F700&style=for-the-badge&label=Profile+Views)
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAzizbek432&count_bg=%2300F700&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 # Assalomu alaykum! | Hi There!  
 Men **Azizbek Abdullayev**man — web dasturlashga qiziqadigan, yangi narsalarni o‘rganishni yaxshi ko‘radigan yosh dasturchiman.  
@@ -89,6 +89,34 @@ I want to study programming in depth and create useful and beautiful websites, a
 ##  Mening telegram kanalim 📊 | My telegram channel 📊
 
 🔗 https://t.me/azizbek_it_dev
+
+---
+
+# 🚀 Web-Solutions & Services | Xizmatlar
+
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAzizbek432&count_bg=%2300F700&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
+Assalomu alaykum! Men sizga sifatli va zamonaviy veb-yechimlar yaratishda yordam beraman. 
+*Greetings! I help you create high-quality and modern web solutions.*
+
+---
+
+### 🌐 Projects & Resources | Loyihalar va Resurslar
+
+| Resource | Link | Description |
+| :--- | :--- | :--- |
+| **🌍 Web-Site** | [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://web-core-solutions.vercel.app/)) | Services & Portfolio |
+| **📢 Telegram** | [![Telegram](https://img.shields.io/badge/Telegram-Join-0088cc?style=flat-square&logo=telegram)](https://t.me/Azizbek_Abdullayev09) | Useful Info & News |
+| **💼 Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square)](https://my-responsive-portfolio-azizbek.vercel.app) | My Completed Projects |
+
+---
+
+### 🛠 Services | Men taklif qiladigan xizmatlar:
+
+* **Full-stack Web Development** | (React, Node.js, Python, etc.)
+* **Telegram Bots** | Murakkab biznes jarayonlarini avtomatlashtirish *(Business process automation)*
+* **UI/UX Design** | Figma orqali zamonaviy interfeyslar *(Modern interfaces via Figma)*
+* **Technical Support** | Texnik qo'llab-quvvatlash va modernizatsiya *(Support & Modernization)*
 
 ---
 
