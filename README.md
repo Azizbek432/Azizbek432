@@ -126,15 +126,21 @@ Assalomu alaykum! Men sizga sifatli va zamonaviy veb-yechimlar yaratishda yordam
 ## 📫 Aloqa | Contact
 
 <p align="left">
-  <a href="https://www.youtube.com/@Azizbek_Abdullayev__2026" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-    <a href="https://t.me/Azizbek_Abdullayev09" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/Azizbek_Abdullayev09" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://github.com/Azizbek432" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/azizbek-abdullayev-future-full-stack-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/AzizbekAbd5902" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/@Azizbek_Abdullayev__2026" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
-- 📸 **Instagram (Main):** [_azizbek_future_programmer](https://www.instagram.com/_azizbek_future_programmer)
-- 📸 **Instagram (Personal):** [azizbek_personal_account](https://www.instagram.com/azizbek_personal_account)
+### 📱 Social Media Accounts:
+
+* **X (Twitter):**
+    * [<img src="https://img.shields.io/badge/X-Main-000000?style=flat&logo=x&logoColor=white">](https://x.com/AzizbekAbd5902) — Asosiy profil
+    * [<img src="https://img.shields.io/badge/X-Secondary-000000?style=flat&logo=x&logoColor=white">](https://x.com/Azizbek__dev) — Developer profili
+
+* **Instagram:**
+    * [<img src="https://img.shields.io/badge/Instagram-Business-E4405F?style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/_azizbek_future_programmer) — Professional
+    * [<img src="https://img.shields.io/badge/Instagram-Personal-E4405F?style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/azizbek_personal_account) — Shaxsiy
 
 > "Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — o‘sish uchun imkon."
 > "A programmer is someone who has mastered the art of solving problems through code. Every line is a new opportunity, every mistake is an opportunity for growth."
