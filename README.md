@@ -24,8 +24,9 @@ I'm **Azizbek Abdullayev** — a young developer who loves learning and building
 ---
 
 ## 🚀 Maqsadim | My Goal
-Men dasturchilikni chuqur o‘rganib, foydali va chiroyli saytlar yaratmoqchiman,shu qatorda frellancerlik bilan ham shug'ullanmoqchiman |
-I want to study programming in depth and create useful and beautiful websites, as well as do some freelancing. 
+Men Full-stack dasturchi bo‘lish yo‘lida dasturlashni chuqur o‘rganmoqdaman. Hozirda foydali va zamonaviy veb-saytlar yaratish bilan birga, frilans loyihalar ustida ishlashga ham tayyorman.
+
+I am diving deep into programming to become a Full-stack developer. While building useful and modern websites, I am also open to freelance opportunities and collaborations.
 
 ---
 
