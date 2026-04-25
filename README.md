@@ -144,5 +144,13 @@ Assalomu alaykum! Men sizga sifatli va zamonaviy veb-yechimlar yaratishda yordam
     * [<img src="https://img.shields.io/badge/Instagram-Business-E4405F?style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/_azizbek_future_programmer) — Professional
     * [<img src="https://img.shields.io/badge/Instagram-Personal-E4405F?style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/azizbek_personal_account) — Shaxsiy
 
+## 💬 Discord
+
+Dasturlash va loyihalar haqida suhbatlashish uchun Discord'ga qo'shiling!
+
+Join my Discord to discuss programming and projects!
+
+[![Discord](https://img.shields.io/badge/Discord-azizbek__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/azizbek_dev)
+
 > "Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — o‘sish uchun imkon."
 > "A programmer is someone who has mastered the art of solving problems through code. Every line is a new opportunity, every mistake is an opportunity for growth."
