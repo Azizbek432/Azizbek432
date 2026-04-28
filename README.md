@@ -32,7 +32,9 @@ I'm **Azizbek Abdullayev** — a young developer who loves learning and building
 
 ## 🌱 Hozir nimalarni o‘rganayapman | What am I learning now?
 - Moslashuvchan saytlar yaratish | Creating responsive websites
-- JavaScript asoslari | Basics of JavaScript
+- React bilan murakkab UI komponentlar | Complex UI components with React
+- FastAPI bilan REST API qurish | Building REST APIs with FastAPI
+- Full-Stack loyihalarni deploy qilish | Deploying Full-Stack projects
 - Freelancerlik va haqiqiy loyihalar bilan ishlash | Freelancing and working on real projects  
 
 ---
@@ -45,8 +47,8 @@ I am diving deep into programming to become a Full-stack developer. While buildi
 ---
 
 ## 🚀Hozirgi holatim | My current situation 
-- 👨‍💻 Boshlang'ich fullstack dasturchisi (bosqichma-bosqich o'rganish) | Beginner fullstack developer (learning step by step)
-- 🌱 Men hozirda JavaScript va backend asoslarini o'rganyapman | I am currently learning JavaScript and backend basics.
+- 👨‍💻 Boshlang'ich Full-stack dasturchisi | Beginner Full-stack Developer
+- 🌱 Men hozirda JavaScript va Backend asoslarini o'rganyapman | I am currently learning JavaScript and backend basics.
 - 🛠️ Men mahoratimni oshirish uchun kichik loyihalar quryapman | I am building small projects to improve my skills.
 - 🌍 Portfolio veb-saytim Vercelga deploy qilingan | My portfolio website is deployed to Vercel
 - 💡 Men o'rganish, amaliyot va izchillikka e'tibor qaratyapman | I am focusing on learning, practice, and consistency.
