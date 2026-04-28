@@ -14,9 +14,12 @@ I'm **Azizbek Abdullayev** — a young developer who loves learning and building
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 - ⚙️ **Backend:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 - 🗄️ **Database:** 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -25,6 +28,7 @@ I'm **Azizbek Abdullayev** — a young developer who loves learning and building
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- ➕ **Other:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 - 🚀 **Now** Full-Stack loyihalar quryapman — frontenddan backendgacha | *Building Full-Stack projects end-to-end*
 - 🎯 **Goal:** Har kuni kod yozaman, har hafta deploy qilaman | *Write code daily, ship weekly*
 
@@ -46,7 +50,7 @@ I am diving deep into programming to become a Full-stack developer. While buildi
 
 ---
 
-## 🚀Hozirgi holatim | My current situation 
+## 📌 Hozirgi holatim | My current situation 
 - 👨‍💻 Boshlang'ich Full-stack dasturchisi | Beginner Full-stack Developer
 - 🌱 Men hozirda JavaScript va Backend asoslarini o'rganyapman | I am currently learning JavaScript and backend basics.
 - 🛠️ Men mahoratimni oshirish uchun kichik loyihalar quryapman | I am building small projects to improve my skills.
