@@ -152,6 +152,7 @@ Assalomu alaykum! Men sizga sifatli va zamonaviy veb-yechimlar yaratishda yordam
   <a href="https://github.com/Azizbek432" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/azizbek-abdullayev-future-full-stack-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@Azizbek_Abdullayev__2026" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/@AzizbekAbdullayev-2026" target="_blank"><img src="https://img.shields.io/badge/YouTube%202-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube 2"></a>
 </p>
 
 ### 📱 Social Media Accounts:
