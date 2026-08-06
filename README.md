@@ -172,10 +172,8 @@ Assalomu alaykum! Men sizga sifatli va zamonaviy veb-yechimlar yaratishda yordam
 
 ## 💬 Discord
 
-Dasturlash va loyihalar haqida suhbatlashish uchun Discord'ga qo'shiling!
+Dasturlash va loyihalar haqida suhbatlashish uchun Discordga qo'shiling!
 
 Join my Discord to discuss programming and projects!
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BZXYSy7WPE)
-
-🔗 https://discord.gg/BZXYSy7WPE
