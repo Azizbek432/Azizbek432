@@ -1,179 +1,266 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Full-stack+Developer+in+Progress..;Blogger;Learner)
+<div align="center">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Azizbek432&label=Profile%20Views&countColor=%23263238&labelStyle=upper)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00F700,100:0A66C2&height=200&section=header&text=Azizbek%20Abdullayev&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Telegram%20Bots%20%7C%20Mobile&descAlignY=60&descSize=18)
 
-# Assalomu alaykum! | Hi There!  
-Men **Azizbek Abdullayev**man — web dasturlashga qiziqadigan, yangi narsalarni o‘rganishni yaxshi ko‘radigan yosh dasturchiman.  
-I'm **Azizbek Abdullayev** — a young developer who loves learning and building creative web projects.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Python;Telegram+Bot+Builder;Blogger+%26+Lifelong+Learner)](https://web-core-solutions-azizbek.vercel.app)
 
----
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=Azizbek432&label=Profile%20Views&countColor=%23263238&labelStyle=upper)
+![Followers](https://img.shields.io/github/followers/Azizbek432?style=flat-square&logo=github&color=181717)
+![Repos](https://img.shields.io/badge/Repositories-60-00F700?style=flat-square&logo=github)
 
-## 💻 Dasturlash yo'nalishim | My Development Path
-- 🌐 **Frontend:** 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-- ⚙️ **Backend:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-- 🗄️ **Database:** 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-- 🛠️ **Tools:** 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-- ➕ **Other:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- 🚀 **Now** Full-Stack loyihalar quryapman — frontenddan backendgacha | *Building Full-Stack projects end-to-end*
-- 🎯 **Goal:** Har kuni kod yozaman, har hafta deploy qilaman | *Write code daily, ship weekly*
+</div>
 
 ---
 
-## 🌱 Hozir nimalarni o‘rganayapman | What am I learning now?
-- Moslashuvchan saytlar yaratish | Creating responsive websites
-- React bilan murakkab UI komponentlar | Complex UI components with React
-- FastAPI bilan REST API qurish | Building REST APIs with FastAPI
-- Full-Stack loyihalarni deploy qilish | Deploying Full-Stack projects
-- Freelancerlik va haqiqiy loyihalar bilan ishlash | Freelancing and working on real projects  
+# Assalomu alaykum! 👋
+
+Men **Azizbek Abdullayev**man — Xorazmlik, web dasturlaşni yaxşi köradigan va har kuni yangi narsa örganadigan full-stack dasturçiman.
+
+Frontenddan backendgacha — töliq işlaydigan web ilovalar, mobil ilovalar va biznes jarayonlarini avtomatlaştiradigan Telegram botlar yarataman.
+
+- 🚀 **WebCore Solutions** doirasida loyihalar quryapman
+- 📱 **React Native + Expo** bilan mobil ilovalar ustida işlayapman
+- 🌱 Hozir çuqurlaştirayotganlarim: **Next.js, TypeScript, REST API, Supabase**
+- 💼 **Frilans loyihalar** va hamkorlik uçun oçiqman
+- ♟️ Böş vaqtda şaxmat öynayman va rubob çalaman
+- 🎯 **Maqsadim:** har kuni kod yozaman, har hafta deploy qilaman
+
+> *"Katta natijalar kiçik qadamlar bilan boşlanadi."*
 
 ---
 
-## 🚀 Maqsadim | My Goal
-Men Full-stack dasturchi bo‘lish yo‘lida dasturlashni chuqur o‘rganmoqdaman. Hozirda foydali va zamonaviy veb-saytlar yaratish bilan birga, frilans loyihalar ustida ishlashga ham tayyorman.
+## 🛠️ Texnologiyalar va könikmalar
 
-I am diving deep into programming to become a Full-stack developer. While building useful and modern websites, I am also open to freelance opportunities and collaborations.
+**Frontend**
 
----
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark)
 
-## 📌 Hozirgi holatim | My current situation 
-- 👨‍💻 Boshlang'ich Full-stack dasturchisi | Beginner Full-stack Developer
-- 🌱 Men hozirda JavaScript va Backend asoslarini o'rganyapman | I am currently learning JavaScript and backend basics.
-- 🛠️ Men mahoratimni oshirish uchun kichik loyihalar quryapman | I am building small projects to improve my skills.
-- 🌍 Portfolio veb-saytim Vercelga deploy qilingan | My portfolio website is deployed to Vercel
-- 💡 Men o'rganish, amaliyot va izchillikka e'tibor qaratyapman | I am focusing on learning, practice, and consistency.
+**Backend va ma'lumotlar bazasi**
 
----
+![Backend](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,sqlite,supabase&theme=dark)
 
+**Mobil va asboblar**
 
-## 🌐 Mening portfoliom | My Portfolio
-> Meni boshlang'ich dasturchi sifatida loyihalarim va yutuqlarimni namoyish etadigan oddiy portfoliolarim: | A simple portfolio where I showcase my projects and progress as a beginner developer:
-
-## My first portfolio: | Mening birinchi portfoliom:
-🔗 https://azizbek-my-portfolio.vercel.app
-
-
-## My second portolio(it's modern..): | Mening ikkinchi portfoliom(u zamonaviy):
-🔗 https://my-modern-portfolio-azizbek.vercel.app/
-
-## My main portfolio | Mening asosiy portfoliom:
-🔗 https://my-responsive-portfolio-azizbek.vercel.app/
+![Tools](https://skillicons.dev/icons?i=react,git,github,vscode,vercel,figma,cpp&theme=dark)
 
 ---
 
-## 🧩 Men haqimda qisqacha | About Me
-- 💡 Har kuni yangi g‘oyalar izlayman | I look for new ideas every day.
-- 🧠 “Katta natijalar kichik qadamlar bilan boshlanadi” tamoyiliga ishonaman | I believe in the principle "Big results start with small steps"
-- 🕹️ Bo‘sh vaqtda shaxmat o‘ynayman va Rubob chalishni yoqtiraman | In my free time, I play chess and the rubab.
+## 📌 Hozirgi holatim
+
+- 👨‍💻 Full-stack dasturçi (rivojlanişda)
+- 🌱 JavaScript, TypeScript va backend asoslarini çuqurroq örganyapman
+- 🛠️ Mahoratimni oşiriş uçun real loyihalar quryapman
+- 🌍 Portfolio saytlarim Vercelga deploy qilingan
+- 💡 Örganiş, amaliyot va izçillikka e'tibor qaratyapman
+
+## 🌱 Hozir nimalarni örganayapman
+
+- Moslashuvçan saytlar yaratiş
+- React va Next.js bilan murakkab UI komponentlar
+- FastAPI va Node.js bilan REST API quriş
+- Full-stack loyihalarni deploy qiliş
+- Frilanserlik va haqiqiy loyihalar bilan işlaş
 
 ---
 
-## 🛠️Texnologiyalar & Ko'nikmalar | Technologies & Skills
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+## 📦 Tanlangan loyihalar
 
-## 📊 Github Statistikalar | GitHub Stats
+| Loyiha | Tavsif | Texnologiyalar |
+| :-- | :-- | :-- |
+| [**webcore-solutions-v2**](https://github.com/Azizbek432/webcore-solutions-v2) | WebCore Solutions rasmiy veb-sayti: xizmatlar va portfolio | Next.js · Tailwind CSS · Supabase |
+| [**downloader-azizbek-bot**](https://github.com/Azizbek432/downloader-azizbek-bot) | Telegram uçun media yuklovçi bot (MIT litsenziya) | JavaScript · Node.js |
+| [**webcore-telegram-bot**](https://github.com/Azizbek432/webcore-telegram-bot) | WebCore Solutions Telegram boti | TypeScript |
+| **TrackCast** 🔒 | Startap mobil ilova *(private)* | React Native · Expo · TypeScript |
+| **FinTrack** 🔒 | Mobil ilova *(private)* | React Native · TypeScript · Supabase |
 
-![Azizbek's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Azizbek432&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azizbek432&theme=dark)
+### 🌐 Portfoliolarim
+- 🔗 [Asosiy portfolio](https://azizbek-dev.vercel.app/)
+- 🔗 [Uchinçi portfolio](https://my-responsive-portfolio-azizbek.vercel.app/)
+- 🔗 [Zamonaviy ikkinçi portfolio](https://my-modern-portfolio-azizbek.vercel.app/)
+- 🔗 [Birinçi portfolio](https://azizbek-my-portfolio.vercel.app)
 
 ---
 
-## 📊 Faoliyat Grafigi | Activity Graph
+## 💼 Xizmatlar
 
-![Azizbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek432&theme=react&area=true&hide_border=true)
+| | Xizmat | Nima taqdim etaman |
+| :-: | :-- | :-- |
+| 🌐 | **Full-Stack Web Development** | Moslashuvçan saytlar va web ilovalar (React, Next.js, Node.js, Python) |
+| 🤖 | **Telegram botlar** | Biznes jarayonlarini avtomatlaştiriş |
+| 🎨 | **UI/UX dizayn** | Figma orqali zamonaviy interfeyslar |
+| 🔧 | **Texnik qöllab-quvvatlaş** | Modernizatsiya, refaktoring va xatolarni tuzatiş |
 
----
-
-##  Mening telegram kanalim 📊 | My telegram channel 📊
-
-🔗 https://t.me/azizbek_it_dev
-
----
-
-# 🚀 Web-Solutions & Services | Xizmatlar
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Azizbek432&label=Profile%20Views&countColor=%23263238&labelStyle=upper)
-
-Assalomu alaykum! Men sizga sifatli va zamonaviy veb-yechimlar yaratishda yordam beraman. 
-*Greetings! I help you create high-quality and modern web solutions.*
+📩 Buyurtma uçun: [Telegram](https://t.me/Azizbek_Abdullayev09) · [WebCore Solutions](https://web-core-solutions-azizbek.vercel.app) · [Yangiliklar kanali](https://t.me/WebCoreSolutions)
 
 ---
 
-### 🌐 Projects & Resources | Loyihalar va Resurslar
+## 📊 GitHub statistikasi
 
-| Resource | Link | Description | Tavsif |
-| :--- | :--- | :--- | :--- |
-| **🌍 Web-Site** | [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://web-core-solutions.vercel.app/) | Services & Portfolio | Xizmatlar va Portfolio |
-| **📢 Telegram** | [![Telegram](https://img.shields.io/badge/Telegram-Join-0088cc?style=flat-square&logo=telegram)](https://t.me/WebCoreSolutions) | Useful Info & News | Yangiliklar va ma'lumotlar |
-| **💼 Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square)](https://github.com/Azizbek432) | My Completed Projects | Mening barcha loyihalarim |
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Azizbek432&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azizbek432&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 
-### 🛠 Services | Men taklif qiladigan xizmatlar:
+<img src="https://streak-stats.demolab.com/?user=Azizbek432&theme=radical&hide_border=true" alt="GitHub streak" />
 
-* **Full-stack Web Development** | (React, Node.js, Python, etc.)
-* **Telegram Bots** | Murakkab biznes jarayonlarini avtomatlashtirish *(Business process automation)*
-* **UI/UX Design** | Figma orqali zamonaviy interfeyslar *(Modern interfaces via Figma)*
-* **Technical Support** | Texnik qo'llab-quvvatlash va modernizatsiya *(Support & Modernization)*
+</div>
+
+## 📈 Faoliyat grafigi
+
+![Activity Graph](https://github-readme-activity-graph.k33g.workers.dev/graph?username=Azizbek432&theme=react-dark&area=true&hide_border=true)
 
 ---
 
-## 📫 Aloqa | Contact
+## 📫 Aloqa
 
 <p align="left">
-  <a href="https://t.me/Azizbek_Abdullayev09" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://github.com/Azizbek432" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/azizbek-abdullayev-future-full-stack-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@Azizbek_Abdullayev__2026" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.youtube.com/@AzizbekAbdullayev-2026" target="_blank"><img src="https://img.shields.io/badge/YouTube%202-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube 2"></a>
+  <a href="https://t.me/Azizbek_Abdullayev09"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://github.com/Azizbek432"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/azizbek-abdullayev-future-full-stack-developer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@AzizbekAbdullayev-2026"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/@Azizbek_Abdullayev__2026"><img src="https://img.shields.io/badge/YouTube%202-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube 2"></a>
+  <a href="mailto:azizbekabdullayev3400@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-### 📱 Social Media Accounts:
+### 📺 Kanallarim va ijtimoiy tarmoqlarim
 
-* **X (Twitter):**
-    * [<img src="https://img.shields.io/badge/X-Main-000000?style=flat&logo=x&logoColor=white">](https://x.com/AzizbekAbd5902) — Asosiy profil
-    * [<img src="https://img.shields.io/badge/X-Secondary-000000?style=flat&logo=x&logoColor=white">](https://x.com/Azizbek__dev) — Developer profili
+| Platforma | Havola | Tavsif |
+| :-- | :-- | :-- |
+| ▶️ **YouTube** | [@AzizbekAbdullayev-2026](https://www.youtube.com/@AzizbekAbdullayev-2026) | Asosiy kanal |
+| ▶️ **YouTube** | [@Azizbek_Abdullayev__2026](https://www.youtube.com/@Azizbek_Abdullayev__2026) | Ikkinçi kanal |
+| 📢 **Telegram** | [@azizbek_it_dev](https://t.me/azizbek_it_dev) | Şaxsiy IT kanalim |
+| 📢 **Telegram** | [@WebCoreSolutions](https://t.me/WebCoreSolutions) | WebCore Solutions yangiliklari va ma'lumotlar |
+| 🐦 **X (Twitter)** | [@AzizbekAbd5902](https://x.com/AzizbekAbd5902) | Asosiy profil |
+| 🐦 **X (Twitter)** | [@Azizbek__dev](https://x.com/Azizbek__dev) | Developer profili |
+| 📸 **Instagram** | [_azizbek_future_programmer](https://www.instagram.com/_azizbek_future_programmer) | Professional |
+| 📸 **Instagram** | [azizbek_personal_account](https://www.instagram.com/azizbek_personal_account) | Şaxsiy |
 
-* **Instagram:**
-    * [<img src="https://img.shields.io/badge/Instagram-Business-E4405F?style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/_azizbek_future_programmer) — Professional
-    * [<img src="https://img.shields.io/badge/Instagram-Personal-E4405F?style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/azizbek_personal_account) — Shaxsiy
+### 💬 Discord
 
-> "Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — o‘sish uchun imkon."
-> "A programmer is someone who has mastered the art of solving problems through code. Every line is a new opportunity, every mistake is an opportunity for growth."
+Dasturlaş va loyihalar haqida suhbatlaşiş uçun Discordga qöşiling!
+
+[![Discord](https://img.shields.io/badge/Discord-Qöşilış-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BZXYSy7WPE)
 
 ---
 
-## 💬 Discord
+> *"Dasturçi — bu muammolarni kod orqali hal qiliş san'atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — öşiş uçun imkon."*
 
-Dasturlash va loyihalar haqida suhbatlashish uchun Discordga qo'shiling!
+---
 
-Join my Discord to discuss programming and projects!
+## 🔤 Yangi alifbo haqida
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BZXYSy7WPE)
+Bu README 2027-yil 22-apreldan kuçga kiradigan **yangi özbek alifbosida** yozilgan (ÖRQ-1184-sonli qonun).
+
+| Eski | Yangi |
+| :-: | :-: |
+| O‘ o‘ | **Ö ö** |
+| G‘ g‘ | **Ğ ğ** |
+| Sh sh | **Ş ş** |
+| Ch ch | **Ç ç** |
+
+*"Ng" alohida harf sifatida alifbodan çiqariladi, tutuq belgisi (') saqlanadi. Alifbo 28 ta harf va bitta tutuq belgisidan iborat bo‘ladi.*
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00F700&height=120&section=footer)
+
+⭐ Loyihalarim yoqsa, star bosişni unutmang! ⭐
+
+</div>
+
+<details>
+<summary><b>🇬🇧 Read this README in English</b></summary>
+
+<br>
+
+# Hello! 👋
+
+I'm **Azizbek Abdullayev** — a full-stack developer from Khorezm, Uzbekistan, who loves web development and learns something new every day.
+
+From frontend to backend, I build complete web apps, mobile apps and Telegram bots that automate business processes.
+
+- 🚀 Building products under **WebCore Solutions**
+- 📱 Working on mobile apps with **React Native + Expo**
+- 🌱 Currently deepening: **Next.js, TypeScript, REST APIs, Supabase**
+- 💼 Open to **freelance projects** and collaborations
+- ♟️ Outside of code: chess and rubab
+- 🎯 **Goal:** write code daily, ship weekly
+
+> *"Big results start with small steps."*
+
+### 🛠️ Technologies & Skills
+
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, Python, FastAPI
+- **Databases:** PostgreSQL, SQLite, Supabase
+- **Mobile:** React Native, Expo
+- **Tools:** Git, GitHub, VS Code, Vercel, Figma
+- **Other:** C++ basics
+
+### 📌 Current Situation
+
+- 👨‍💻 Full-stack developer in progress
+- 🌱 Going deeper into JavaScript, TypeScript and backend development
+- 🛠️ Building real projects to sharpen my skills
+- 🌍 My portfolio websites are deployed on Vercel
+- 💡 Focused on learning, practice and consistency
+
+### 🌱 What I'm Learning Now
+
+- Building responsive websites
+- Complex UI components with React and Next.js
+- REST APIs with FastAPI and Node.js
+- Deploying full-stack projects
+- Freelancing and working on real projects
+
+### 📦 Featured Projects
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [**webcore-solutions-v2**](https://github.com/Azizbek432/webcore-solutions-v2) | Official WebCore Solutions website: services and portfolio | Next.js · Tailwind CSS · Supabase |
+| [**downloader-azizbek-bot**](https://github.com/Azizbek432/downloader-azizbek-bot) | Telegram media downloader bot (MIT licensed) | JavaScript · Node.js |
+| [**webcore-telegram-bot**](https://github.com/Azizbek432/webcore-telegram-bot) | WebCore Solutions Telegram bot | TypeScript |
+| **TrackCast** 🔒 | Startup mobile app *(private)* | React Native · Expo · TypeScript |
+| **FinTrack** 🔒 | Mobile app *(private)* | React Native · TypeScript · Supabase |
+
+**🌐 Portfolios:** [Main](https://azizbek-dev.vercel.app/) · [Third](https://my-responsive-portfolio-azizbek.vercel.app/) · [Modern (second)](https://my-modern-portfolio-azizbek.vercel.app/) · [First](https://azizbek-my-portfolio.vercel.app)
+
+### 💼 Services
+
+| | Service | What I deliver |
+| :-: | :-- | :-- |
+| 🌐 | **Full-Stack Web Development** | Responsive websites and web apps (React, Next.js, Node.js, Python) |
+| 🤖 | **Telegram Bots** | Business process automation |
+| 🎨 | **UI/UX Design** | Modern interfaces designed in Figma |
+| 🔧 | **Technical Support** | Modernization, refactoring and bug fixing |
+
+📩 To order a project: [Telegram](https://t.me/Azizbek_Abdullayev09) · [WebCore Solutions](https://web-core-solutions-azizbek.vercel.app) · [News channel](https://t.me/WebCoreSolutions)
+
+### 📫 Contact
+
+[Telegram](https://t.me/Azizbek_Abdullayev09) · [GitHub](https://github.com/Azizbek432) · [LinkedIn](https://www.linkedin.com/in/azizbek-abdullayev-future-full-stack-developer) · [Email](mailto:azizbekabdullayev3400@gmail.com)
+
+### 📺 My Channels & Social Media
+
+| Platform | Link | Description |
+| :-- | :-- | :-- |
+| ▶️ **YouTube** | [@AzizbekAbdullayev-2026](https://www.youtube.com/@AzizbekAbdullayev-2026) | Main channel |
+| ▶️ **YouTube** | [@Azizbek_Abdullayev__2026](https://www.youtube.com/@Azizbek_Abdullayev__2026) | Second channel |
+| 📢 **Telegram** | [@azizbek_it_dev](https://t.me/azizbek_it_dev) | My personal IT channel |
+| 📢 **Telegram** | [@WebCoreSolutions](https://t.me/WebCoreSolutions) | WebCore Solutions news and useful info |
+| 🐦 **X (Twitter)** | [@AzizbekAbd5902](https://x.com/AzizbekAbd5902) | Main profile |
+| 🐦 **X (Twitter)** | [@Azizbek__dev](https://x.com/Azizbek__dev) | Developer profile |
+| 📸 **Instagram** | [_azizbek_future_programmer](https://www.instagram.com/_azizbek_future_programmer) | Professional |
+| 📸 **Instagram** | [azizbek_personal_account](https://www.instagram.com/azizbek_personal_account) | Personal |
+
+💬 **Discord:** join my server to chat about programming and projects: [Join](https://discord.gg/BZXYSy7WPE)
+
+> *"A programmer is someone who has mastered the art of solving problems through code. Every line is a new opportunity, every mistake is a chance to grow."*
+
+### 🔤 About the alphabet used above
+
+The Uzbek section is written in the **new Uzbek Latin alphabet**, which takes effect on April 22, 2027: O‘ → Ö, G‘ → Ğ, Sh → Ş, Ch → Ç. The "ng" digraph is dropped as a separate letter and the tutuq sign (') stays.
+
+⭐ If you like my projects, don't forget to leave a star! ⭐
+
+</details>
