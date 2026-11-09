@@ -105,10 +105,6 @@ Frontenddan backendgacha — töliq işlaydigan web ilovalar, mobil ilovalar va 
 
 </div>
 
-## 📈 Faoliyat grafigi
-
-![Activity Graph](https://github-readme-activity-graph.k33g.workers.dev/graph?username=Azizbek432&theme=react-dark&area=true&hide_border=true)
-
 ---
 
 ## 📫 Aloqa
